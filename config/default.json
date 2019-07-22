@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://TAAJAMES:TAAagency!2000@devconnector-4kdrk.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "088b3a561c587055df16",
+  "githubSecret": "b46fd0ed46625ffb083cb3c3bff1c715ab954caa"
+}
